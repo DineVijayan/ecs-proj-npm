@@ -3,8 +3,8 @@
 replicaCount: 1
 image:
   # repository: naresh2603/helmrocket
-  repository: latest
-  tag: v1
+  repository: dev
+  tag: latest
 containerPort: 80
 # service.yaml
 service:
